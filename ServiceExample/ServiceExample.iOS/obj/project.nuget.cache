@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXEKPJ5cXjhmBI31/G1PfuvamoycouysqygSugivlnRF+4dD4ONUeYdQucrp9ntVEGxiOHbPwu0bFVBoJ1ZfPA==",
+  "success": true,
+  "projectFilePath": "D:\\ForegroundService\\ServiceExample\\ServiceExample\\ServiceExample.iOS\\ServiceExample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Me\\.nuget\\packages\\acr.userdialogs\\7.2.0.534\\acr.userdialogs.7.2.0.534.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\btprogresshud\\1.3.4\\btprogresshud.1.3.4.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Me\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\bin\Release\netstandard2.0\ServiceExample.deps.json
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\bin\Release\netstandard2.0\ServiceExample.dll
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\bin\Release\netstandard2.0\ref\ServiceExample.dll
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\bin\Release\netstandard2.0\ServiceExample.pdb
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\ServiceExample.AssemblyInfoInputs.cache
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\ServiceExample.AssemblyInfo.cs
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\ServiceExample.csproj.CoreCompileInputs.cache
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\XamlC.stamp
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\ServiceExample.dll
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\ref\ServiceExample.dll
+D:\ForegroundService\ServiceExample\ServiceExample\ServiceExample\obj\Release\netstandard2.0\ServiceExample.pdb
